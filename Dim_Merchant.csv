@@ -1,0 +1,419 @@
+Merchant_Key,Merchant_Name,Category,Channel,Category_Group,Location_Key,Merchant_Risk_Tier
+1,Metro Grocery 001,grocery_pos,In-Store,Retail / In-Person,11,Standard
+2,Willow Grocery 002,grocery_pos,In-Store,Retail / In-Person,19,Standard
+3,Apex Grocery 003,grocery_pos,In-Store,Retail / In-Person,34,Watchlist
+4,Evergreen Grocery 004,grocery_pos,In-Store,Retail / In-Person,25,Standard
+5,Harbor Grocery 005,grocery_pos,In-Store,Retail / In-Person,28,Standard
+6,Cedar Grocery 006,grocery_pos,In-Store,Retail / In-Person,21,Watchlist
+7,Metro Grocery 007,grocery_pos,In-Store,Retail / In-Person,16,Standard
+8,Beacon Grocery 008,grocery_pos,In-Store,Retail / In-Person,8,Standard
+9,Sunrise Grocery 009,grocery_pos,In-Store,Retail / In-Person,32,Standard
+10,Metro Grocery 010,grocery_pos,In-Store,Retail / In-Person,29,Standard
+11,Liberty Grocery 011,grocery_pos,In-Store,Retail / In-Person,1,Standard
+12,Nova Grocery 012,grocery_pos,In-Store,Retail / In-Person,26,Standard
+13,Beacon Grocery 013,grocery_pos,In-Store,Retail / In-Person,4,Standard
+14,Willow Grocery 014,grocery_pos,In-Store,Retail / In-Person,27,Standard
+15,Beacon Grocery 015,grocery_pos,In-Store,Retail / In-Person,30,Watchlist
+16,Willow Grocery 016,grocery_pos,In-Store,Retail / In-Person,5,Standard
+17,Liberty Grocery 017,grocery_pos,In-Store,Retail / In-Person,16,Standard
+18,Urban Grocery 018,grocery_pos,In-Store,Retail / In-Person,5,Standard
+19,Cedar Grocery 019,grocery_pos,In-Store,Retail / In-Person,21,Standard
+20,Evergreen Grocery 020,grocery_pos,In-Store,Retail / In-Person,34,Standard
+21,Liberty Grocery 021,grocery_pos,In-Store,Retail / In-Person,3,Watchlist
+22,Summit Grocery 022,grocery_pos,In-Store,Retail / In-Person,15,Standard
+23,Urban Grocery 023,grocery_pos,In-Store,Retail / In-Person,36,Standard
+24,Orbit Grocery 024,grocery_pos,In-Store,Retail / In-Person,11,Watchlist
+25,Willow Grocery 025,grocery_pos,In-Store,Retail / In-Person,5,Standard
+26,Apex Grocery 026,grocery_pos,In-Store,Retail / In-Person,18,Standard
+27,Harbor Grocery 027,grocery_pos,In-Store,Retail / In-Person,19,Standard
+28,Cedar Grocery 028,grocery_pos,In-Store,Retail / In-Person,24,Standard
+29,Liberty Grocery 029,grocery_pos,In-Store,Retail / In-Person,12,Standard
+30,Evergreen Grocery 030,grocery_pos,In-Store,Retail / In-Person,35,Standard
+31,Evergreen Grocery 031,grocery_pos,In-Store,Retail / In-Person,19,Standard
+32,Sunrise Grocery 032,grocery_pos,In-Store,Retail / In-Person,11,Standard
+33,Metro Grocery 033,grocery_pos,In-Store,Retail / In-Person,35,Standard
+34,Liberty Grocery 034,grocery_pos,In-Store,Retail / In-Person,34,Standard
+35,Orbit Grocery 035,grocery_pos,In-Store,Retail / In-Person,18,Standard
+36,Metro Grocery 036,grocery_pos,In-Store,Retail / In-Person,1,Standard
+37,Cedar Grocery 037,grocery_pos,In-Store,Retail / In-Person,22,Standard
+38,Cedar Grocery 038,grocery_pos,In-Store,Retail / In-Person,20,Standard
+39,Pioneer Grocery 039,grocery_pos,In-Store,Retail / In-Person,6,Standard
+40,Apex Grocery 040,grocery_pos,In-Store,Retail / In-Person,23,Standard
+41,Urban Grocery 041,grocery_pos,In-Store,Retail / In-Person,31,Standard
+42,Willow Grocery 042,grocery_pos,In-Store,Retail / In-Person,4,Standard
+43,Beacon Grocery 043,grocery_pos,In-Store,Retail / In-Person,27,Standard
+44,Summit Grocery 044,grocery_pos,In-Store,Retail / In-Person,6,Standard
+45,Metro Grocery 045,grocery_pos,In-Store,Retail / In-Person,27,Standard
+46,Nova Grocery 046,grocery_pos,In-Store,Retail / In-Person,16,Standard
+47,Evergreen Grocery 047,grocery_pos,In-Store,Retail / In-Person,1,Standard
+48,Orbit Grocery 048,grocery_pos,In-Store,Retail / In-Person,35,Standard
+49,Apex Grocery 049,grocery_pos,In-Store,Retail / In-Person,6,Standard
+50,Willow Grocery 050,grocery_pos,In-Store,Retail / In-Person,22,Standard
+51,Willow Grocery 051,grocery_pos,In-Store,Retail / In-Person,7,Standard
+52,Sunrise Grocery 052,grocery_pos,In-Store,Retail / In-Person,34,Standard
+53,Summit Grocery 053,grocery_pos,In-Store,Retail / In-Person,27,Standard
+54,Evergreen Grocery 054,grocery_pos,In-Store,Retail / In-Person,29,Standard
+55,Evergreen Grocery 055,grocery_pos,In-Store,Retail / In-Person,16,Standard
+56,Prime Grocery 056,grocery_pos,In-Store,Retail / In-Person,17,Standard
+57,Liberty Grocery 057,grocery_pos,In-Store,Retail / In-Person,23,Standard
+58,Urban Grocery 058,grocery_pos,In-Store,Retail / In-Person,29,Standard
+59,Beacon Gas 059,gas_transport,In-Store,Retail / In-Person,31,Standard
+60,Apex Gas 060,gas_transport,In-Store,Retail / In-Person,1,Standard
+61,Orbit Gas 061,gas_transport,In-Store,Retail / In-Person,24,Standard
+62,Beacon Gas 062,gas_transport,In-Store,Retail / In-Person,4,Standard
+63,Summit Gas 063,gas_transport,In-Store,Retail / In-Person,11,Standard
+64,Nova Gas 064,gas_transport,In-Store,Retail / In-Person,30,Watchlist
+65,Harbor Gas 065,gas_transport,In-Store,Retail / In-Person,10,Standard
+66,Summit Gas 066,gas_transport,In-Store,Retail / In-Person,29,Standard
+67,Orbit Gas 067,gas_transport,In-Store,Retail / In-Person,17,Standard
+68,Summit Gas 068,gas_transport,In-Store,Retail / In-Person,9,Standard
+69,Metro Gas 069,gas_transport,In-Store,Retail / In-Person,13,Standard
+70,Evergreen Gas 070,gas_transport,In-Store,Retail / In-Person,20,Standard
+71,Willow Gas 071,gas_transport,In-Store,Retail / In-Person,28,Standard
+72,Sunrise Gas 072,gas_transport,In-Store,Retail / In-Person,22,Standard
+73,Evergreen Gas 073,gas_transport,In-Store,Retail / In-Person,34,Standard
+74,Urban Gas 074,gas_transport,In-Store,Retail / In-Person,32,Standard
+75,Apex Gas 075,gas_transport,In-Store,Retail / In-Person,28,Standard
+76,Evergreen Gas 076,gas_transport,In-Store,Retail / In-Person,22,Standard
+77,Summit Gas 077,gas_transport,In-Store,Retail / In-Person,11,Standard
+78,Sunrise Gas 078,gas_transport,In-Store,Retail / In-Person,15,Standard
+79,Crown Gas 079,gas_transport,In-Store,Retail / In-Person,5,Watchlist
+80,Apex Gas 080,gas_transport,In-Store,Retail / In-Person,14,Standard
+81,Nova Gas 081,gas_transport,In-Store,Retail / In-Person,34,Standard
+82,Harbor Gas 082,gas_transport,In-Store,Retail / In-Person,16,Standard
+83,Urban Gas 083,gas_transport,In-Store,Retail / In-Person,5,Standard
+84,Cedar Gas 084,gas_transport,In-Store,Retail / In-Person,24,Standard
+85,Apex Gas 085,gas_transport,In-Store,Retail / In-Person,35,Standard
+86,Beacon Gas 086,gas_transport,In-Store,Retail / In-Person,32,Standard
+87,Metro Gas 087,gas_transport,In-Store,Retail / In-Person,10,Standard
+88,Pioneer Gas 088,gas_transport,In-Store,Retail / In-Person,17,Standard
+89,Willow Gas 089,gas_transport,In-Store,Retail / In-Person,20,Standard
+90,Cedar Gas 090,gas_transport,In-Store,Retail / In-Person,9,Standard
+91,Harbor Gas 091,gas_transport,In-Store,Retail / In-Person,10,Standard
+92,Willow Gas 092,gas_transport,In-Store,Retail / In-Person,9,Standard
+93,Cedar Gas 093,gas_transport,In-Store,Retail / In-Person,36,Standard
+94,Harbor Gas 094,gas_transport,In-Store,Retail / In-Person,27,Standard
+95,Orbit Gas 095,gas_transport,In-Store,Retail / In-Person,31,Standard
+96,Pioneer Gas 096,gas_transport,In-Store,Retail / In-Person,30,Standard
+97,Sunrise Gas 097,gas_transport,In-Store,Retail / In-Person,35,Standard
+98,Apex Gas 098,gas_transport,In-Store,Retail / In-Person,4,Standard
+99,Apex Gas 099,gas_transport,In-Store,Retail / In-Person,32,Watchlist
+100,Urban Gas 100,gas_transport,In-Store,Retail / In-Person,3,Standard
+101,Cedar Gas 101,gas_transport,In-Store,Retail / In-Person,18,Standard
+102,Sunrise Gas 102,gas_transport,In-Store,Retail / In-Person,22,Watchlist
+103,Willow Gas 103,gas_transport,In-Store,Retail / In-Person,13,Standard
+104,Prime Gas 104,gas_transport,In-Store,Retail / In-Person,6,Standard
+105,Willow Gas 105,gas_transport,In-Store,Retail / In-Person,7,Standard
+106,Willow Gas 106,gas_transport,In-Store,Retail / In-Person,30,Standard
+107,Willow Gas 107,gas_transport,In-Store,Retail / In-Person,12,Standard
+108,Apex Gas 108,gas_transport,In-Store,Retail / In-Person,12,Standard
+109,Evergreen Home 109,home,In-Store,Retail / In-Person,34,Standard
+110,Beacon Home 110,home,In-Store,Retail / In-Person,6,Standard
+111,Pioneer Home 111,home,In-Store,Retail / In-Person,33,Standard
+112,Willow Home 112,home,In-Store,Retail / In-Person,34,Standard
+113,Liberty Home 113,home,In-Store,Retail / In-Person,22,Standard
+114,Evergreen Home 114,home,In-Store,Retail / In-Person,6,Standard
+115,Liberty Home 115,home,In-Store,Retail / In-Person,6,Watchlist
+116,Crown Home 116,home,In-Store,Retail / In-Person,11,Standard
+117,Prime Home 117,home,In-Store,Retail / In-Person,21,Standard
+118,Urban Home 118,home,In-Store,Retail / In-Person,6,Standard
+119,Sunrise Home 119,home,In-Store,Retail / In-Person,17,Watchlist
+120,Metro Home 120,home,In-Store,Retail / In-Person,5,Standard
+121,Evergreen Home 121,home,In-Store,Retail / In-Person,20,Standard
+122,Apex Home 122,home,In-Store,Retail / In-Person,1,Standard
+123,Apex Home 123,home,In-Store,Retail / In-Person,26,Standard
+124,Evergreen Home 124,home,In-Store,Retail / In-Person,2,Standard
+125,Cedar Home 125,home,In-Store,Retail / In-Person,8,Standard
+126,Crown Home 126,home,In-Store,Retail / In-Person,7,Standard
+127,Metro Home 127,home,In-Store,Retail / In-Person,30,Standard
+128,Willow Home 128,home,In-Store,Retail / In-Person,2,Standard
+129,Crown Home 129,home,In-Store,Retail / In-Person,16,Standard
+130,Apex Home 130,home,In-Store,Retail / In-Person,22,Standard
+131,Crown Home 131,home,In-Store,Retail / In-Person,19,Standard
+132,Liberty Home 132,home,In-Store,Retail / In-Person,25,Standard
+133,Metro Home 133,home,In-Store,Retail / In-Person,29,Standard
+134,Liberty Home 134,home,In-Store,Retail / In-Person,15,Standard
+135,Willow Home 135,home,In-Store,Retail / In-Person,30,Standard
+136,Pioneer Home 136,home,In-Store,Retail / In-Person,12,Standard
+137,Crown Home 137,home,In-Store,Retail / In-Person,36,Standard
+138,Prime Home 138,home,In-Store,Retail / In-Person,19,Standard
+139,Summit Home 139,home,In-Store,Retail / In-Person,27,Standard
+140,Harbor Home 140,home,In-Store,Retail / In-Person,32,Standard
+141,Nova Home 141,home,In-Store,Retail / In-Person,29,Standard
+142,Sunrise Home 142,home,In-Store,Retail / In-Person,31,Standard
+143,Pioneer Home 143,home,In-Store,Retail / In-Person,20,Standard
+144,Harbor Home 144,home,In-Store,Retail / In-Person,2,Standard
+145,Nova Home 145,home,In-Store,Retail / In-Person,18,Standard
+146,Cedar Shopping 146,shopping_pos,In-Store,Retail / In-Person,7,Standard
+147,Prime Shopping 147,shopping_pos,In-Store,Retail / In-Person,33,Standard
+148,Sunrise Shopping 148,shopping_pos,In-Store,Retail / In-Person,9,Standard
+149,Cedar Shopping 149,shopping_pos,In-Store,Retail / In-Person,9,Standard
+150,Prime Shopping 150,shopping_pos,In-Store,Retail / In-Person,9,Standard
+151,Cedar Shopping 151,shopping_pos,In-Store,Retail / In-Person,24,Standard
+152,Pioneer Shopping 152,shopping_pos,In-Store,Retail / In-Person,21,Standard
+153,Orbit Shopping 153,shopping_pos,In-Store,Retail / In-Person,35,Standard
+154,Pioneer Shopping 154,shopping_pos,In-Store,Retail / In-Person,15,Standard
+155,Harbor Shopping 155,shopping_pos,In-Store,Retail / In-Person,11,Standard
+156,Apex Shopping 156,shopping_pos,In-Store,Retail / In-Person,2,Standard
+157,Urban Shopping 157,shopping_pos,In-Store,Retail / In-Person,1,Standard
+158,Liberty Shopping 158,shopping_pos,In-Store,Retail / In-Person,14,Standard
+159,Liberty Shopping 159,shopping_pos,In-Store,Retail / In-Person,34,Standard
+160,Willow Shopping 160,shopping_pos,In-Store,Retail / In-Person,19,Standard
+161,Nova Shopping 161,shopping_pos,In-Store,Retail / In-Person,33,Standard
+162,Apex Shopping 162,shopping_pos,In-Store,Retail / In-Person,4,Standard
+163,Harbor Shopping 163,shopping_pos,In-Store,Retail / In-Person,4,Standard
+164,Harbor Shopping 164,shopping_pos,In-Store,Retail / In-Person,31,Standard
+165,Harbor Shopping 165,shopping_pos,In-Store,Retail / In-Person,4,Standard
+166,Cedar Shopping 166,shopping_pos,In-Store,Retail / In-Person,2,Standard
+167,Summit Shopping 167,shopping_pos,In-Store,Retail / In-Person,15,Standard
+168,Urban Shopping 168,shopping_pos,In-Store,Retail / In-Person,34,Standard
+169,Summit Shopping 169,shopping_pos,In-Store,Retail / In-Person,25,Standard
+170,Prime Shopping 170,shopping_pos,In-Store,Retail / In-Person,4,Standard
+171,Metro Shopping 171,shopping_pos,In-Store,Retail / In-Person,31,Standard
+172,Metro Shopping 172,shopping_pos,In-Store,Retail / In-Person,31,Standard
+173,Willow Shopping 173,shopping_pos,In-Store,Retail / In-Person,29,Standard
+174,Beacon Shopping 174,shopping_pos,In-Store,Retail / In-Person,33,Standard
+175,Beacon Shopping 175,shopping_pos,In-Store,Retail / In-Person,9,Standard
+176,Evergreen Shopping 176,shopping_pos,In-Store,Retail / In-Person,36,Standard
+177,Beacon Shopping 177,shopping_pos,In-Store,Retail / In-Person,12,Standard
+178,Urban Shopping 178,shopping_pos,In-Store,Retail / In-Person,29,Standard
+179,Orbit Shopping 179,shopping_pos,In-Store,Retail / In-Person,21,Standard
+180,Liberty Shopping 180,shopping_pos,In-Store,Retail / In-Person,29,Standard
+181,Nova Shopping 181,shopping_pos,In-Store,Retail / In-Person,23,Standard
+182,Urban Shopping 182,shopping_pos,In-Store,Retail / In-Person,24,Standard
+183,Evergreen Shopping 183,shopping_pos,In-Store,Retail / In-Person,23,Standard
+184,Beacon Shopping 184,shopping_pos,In-Store,Retail / In-Person,29,Standard
+185,Evergreen Shopping 185,shopping_pos,In-Store,Retail / In-Person,27,Standard
+186,Evergreen Shopping 186,shopping_pos,In-Store,Retail / In-Person,5,Standard
+187,Urban Shopping 187,shopping_pos,In-Store,Retail / In-Person,30,Standard
+188,Harbor Kids 188,kids_pets,In-Store,Retail / In-Person,20,Standard
+189,Sunrise Kids 189,kids_pets,In-Store,Retail / In-Person,12,Standard
+190,Pioneer Kids 190,kids_pets,In-Store,Retail / In-Person,19,Standard
+191,Apex Kids 191,kids_pets,In-Store,Retail / In-Person,35,Standard
+192,Apex Kids 192,kids_pets,In-Store,Retail / In-Person,31,Standard
+193,Crown Kids 193,kids_pets,In-Store,Retail / In-Person,31,Standard
+194,Summit Kids 194,kids_pets,In-Store,Retail / In-Person,17,Standard
+195,Nova Kids 195,kids_pets,In-Store,Retail / In-Person,29,Standard
+196,Metro Kids 196,kids_pets,In-Store,Retail / In-Person,14,Standard
+197,Summit Kids 197,kids_pets,In-Store,Retail / In-Person,25,Standard
+198,Metro Kids 198,kids_pets,In-Store,Retail / In-Person,24,Standard
+199,Summit Kids 199,kids_pets,In-Store,Retail / In-Person,9,Standard
+200,Nova Kids 200,kids_pets,In-Store,Retail / In-Person,10,Standard
+201,Summit Kids 201,kids_pets,In-Store,Retail / In-Person,3,Standard
+202,Orbit Kids 202,kids_pets,In-Store,Retail / In-Person,6,Standard
+203,Evergreen Kids 203,kids_pets,In-Store,Retail / In-Person,16,Standard
+204,Beacon Kids 204,kids_pets,In-Store,Retail / In-Person,18,Standard
+205,Evergreen Kids 205,kids_pets,In-Store,Retail / In-Person,6,Standard
+206,Pioneer Kids 206,kids_pets,In-Store,Retail / In-Person,16,Standard
+207,Willow Kids 207,kids_pets,In-Store,Retail / In-Person,22,Standard
+208,Nova Kids 208,kids_pets,In-Store,Retail / In-Person,9,Standard
+209,Pioneer Kids 209,kids_pets,In-Store,Retail / In-Person,13,Standard
+210,Willow Kids 210,kids_pets,In-Store,Retail / In-Person,14,Standard
+211,Pioneer Kids 211,kids_pets,In-Store,Retail / In-Person,19,Standard
+212,Beacon Kids 212,kids_pets,In-Store,Retail / In-Person,14,Standard
+213,Willow Kids 213,kids_pets,In-Store,Retail / In-Person,27,Standard
+214,Evergreen Kids 214,kids_pets,In-Store,Retail / In-Person,12,Standard
+215,Beacon Kids 215,kids_pets,In-Store,Retail / In-Person,16,Standard
+216,Pioneer Kids 216,kids_pets,In-Store,Retail / In-Person,14,Standard
+217,Metro Kids 217,kids_pets,In-Store,Retail / In-Person,7,Standard
+218,Metro Kids 218,kids_pets,In-Store,Retail / In-Person,25,Standard
+219,Evergreen Kids 219,kids_pets,In-Store,Retail / In-Person,9,Standard
+220,Orbit Kids 220,kids_pets,In-Store,Retail / In-Person,11,Standard
+221,Urban Food 221,food_dining,In-Store,Retail / In-Person,29,Standard
+222,Evergreen Food 222,food_dining,In-Store,Retail / In-Person,35,Standard
+223,Beacon Food 223,food_dining,In-Store,Retail / In-Person,25,Standard
+224,Sunrise Food 224,food_dining,In-Store,Retail / In-Person,33,Standard
+225,Beacon Food 225,food_dining,In-Store,Retail / In-Person,31,Standard
+226,Pioneer Food 226,food_dining,In-Store,Retail / In-Person,18,Standard
+227,Willow Food 227,food_dining,In-Store,Retail / In-Person,28,Standard
+228,Crown Food 228,food_dining,In-Store,Retail / In-Person,12,Standard
+229,Liberty Food 229,food_dining,In-Store,Retail / In-Person,17,Standard
+230,Urban Food 230,food_dining,In-Store,Retail / In-Person,20,Standard
+231,Evergreen Food 231,food_dining,In-Store,Retail / In-Person,35,Standard
+232,Cedar Food 232,food_dining,In-Store,Retail / In-Person,31,Standard
+233,Prime Food 233,food_dining,In-Store,Retail / In-Person,18,Standard
+234,Willow Food 234,food_dining,In-Store,Retail / In-Person,24,Standard
+235,Evergreen Food 235,food_dining,In-Store,Retail / In-Person,8,Standard
+236,Beacon Food 236,food_dining,In-Store,Retail / In-Person,29,Standard
+237,Apex Food 237,food_dining,In-Store,Retail / In-Person,20,Standard
+238,Harbor Food 238,food_dining,In-Store,Retail / In-Person,20,Standard
+239,Pioneer Food 239,food_dining,In-Store,Retail / In-Person,28,Standard
+240,Apex Food 240,food_dining,In-Store,Retail / In-Person,23,Standard
+241,Urban Food 241,food_dining,In-Store,Retail / In-Person,3,Standard
+242,Crown Food 242,food_dining,In-Store,Retail / In-Person,11,Standard
+243,Metro Food 243,food_dining,In-Store,Retail / In-Person,7,Standard
+244,Apex Food 244,food_dining,In-Store,Retail / In-Person,27,Standard
+245,Apex Food 245,food_dining,In-Store,Retail / In-Person,2,Standard
+246,Metro Food 246,food_dining,In-Store,Retail / In-Person,8,Standard
+247,Willow Food 247,food_dining,In-Store,Retail / In-Person,22,Watchlist
+248,Harbor Food 248,food_dining,In-Store,Retail / In-Person,26,Standard
+249,Willow Food 249,food_dining,In-Store,Retail / In-Person,19,Standard
+250,Prime Food 250,food_dining,In-Store,Retail / In-Person,31,Standard
+251,Urban Food 251,food_dining,In-Store,Retail / In-Person,34,Standard
+252,Evergreen Food 252,food_dining,In-Store,Retail / In-Person,5,Standard
+253,Sunrise Food 253,food_dining,In-Store,Retail / In-Person,35,Standard
+254,Summit Food 254,food_dining,In-Store,Retail / In-Person,23,Standard
+255,Apex Food 255,food_dining,In-Store,Retail / In-Person,23,Standard
+256,Urban Food 256,food_dining,In-Store,Retail / In-Person,4,Standard
+257,Apex Food 257,food_dining,In-Store,Retail / In-Person,23,Standard
+258,Metro Entertainment 258,entertainment,In-Store,Retail / In-Person,27,Standard
+259,Urban Entertainment 259,entertainment,In-Store,Retail / In-Person,21,Standard
+260,Crown Entertainment 260,entertainment,In-Store,Retail / In-Person,4,Standard
+261,Willow Entertainment 261,entertainment,In-Store,Retail / In-Person,19,Standard
+262,Urban Entertainment 262,entertainment,In-Store,Retail / In-Person,34,Watchlist
+263,Pioneer Entertainment 263,entertainment,In-Store,Retail / In-Person,27,Standard
+264,Orbit Entertainment 264,entertainment,In-Store,Retail / In-Person,5,Standard
+265,Nova Entertainment 265,entertainment,In-Store,Retail / In-Person,35,Standard
+266,Crown Entertainment 266,entertainment,In-Store,Retail / In-Person,35,Standard
+267,Evergreen Entertainment 267,entertainment,In-Store,Retail / In-Person,7,Standard
+268,Summit Entertainment 268,entertainment,In-Store,Retail / In-Person,29,Standard
+269,Crown Entertainment 269,entertainment,In-Store,Retail / In-Person,15,Standard
+270,Crown Entertainment 270,entertainment,In-Store,Retail / In-Person,22,Standard
+271,Pioneer Entertainment 271,entertainment,In-Store,Retail / In-Person,17,Standard
+272,Prime Entertainment 272,entertainment,In-Store,Retail / In-Person,29,Standard
+273,Urban Entertainment 273,entertainment,In-Store,Retail / In-Person,36,Standard
+274,Nova Entertainment 274,entertainment,In-Store,Retail / In-Person,29,Standard
+275,Harbor Entertainment 275,entertainment,In-Store,Retail / In-Person,34,Standard
+276,Evergreen Entertainment 276,entertainment,In-Store,Retail / In-Person,35,Standard
+277,Evergreen Entertainment 277,entertainment,In-Store,Retail / In-Person,4,Standard
+278,Willow Entertainment 278,entertainment,In-Store,Retail / In-Person,10,Standard
+279,Metro Entertainment 279,entertainment,In-Store,Retail / In-Person,26,Watchlist
+280,Metro Entertainment 280,entertainment,In-Store,Retail / In-Person,22,Standard
+281,Pioneer Entertainment 281,entertainment,In-Store,Retail / In-Person,2,Standard
+282,Evergreen Entertainment 282,entertainment,In-Store,Retail / In-Person,4,Standard
+283,Apex Entertainment 283,entertainment,In-Store,Retail / In-Person,19,Standard
+284,Evergreen Entertainment 284,entertainment,In-Store,Retail / In-Person,23,Standard
+285,Evergreen Entertainment 285,entertainment,In-Store,Retail / In-Person,7,Standard
+286,Nova Entertainment 286,entertainment,In-Store,Retail / In-Person,7,Standard
+287,Urban Personal 287,personal_care,In-Store,Retail / In-Person,5,Standard
+288,Crown Personal 288,personal_care,In-Store,Retail / In-Person,21,Standard
+289,Liberty Personal 289,personal_care,In-Store,Retail / In-Person,1,Standard
+290,Evergreen Personal 290,personal_care,In-Store,Retail / In-Person,21,Standard
+291,Willow Personal 291,personal_care,In-Store,Retail / In-Person,18,Standard
+292,Pioneer Personal 292,personal_care,In-Store,Retail / In-Person,17,Standard
+293,Nova Personal 293,personal_care,In-Store,Retail / In-Person,25,Standard
+294,Summit Personal 294,personal_care,In-Store,Retail / In-Person,19,Standard
+295,Liberty Personal 295,personal_care,In-Store,Retail / In-Person,27,Standard
+296,Liberty Personal 296,personal_care,In-Store,Retail / In-Person,28,Standard
+297,Cedar Personal 297,personal_care,In-Store,Retail / In-Person,34,Standard
+298,Evergreen Personal 298,personal_care,In-Store,Retail / In-Person,29,Standard
+299,Pioneer Personal 299,personal_care,In-Store,Retail / In-Person,19,Standard
+300,Prime Personal 300,personal_care,In-Store,Retail / In-Person,18,Standard
+301,Summit Personal 301,personal_care,In-Store,Retail / In-Person,9,Standard
+302,Cedar Personal 302,personal_care,In-Store,Retail / In-Person,22,Standard
+303,Prime Personal 303,personal_care,In-Store,Retail / In-Person,6,Standard
+304,Orbit Personal 304,personal_care,In-Store,Retail / In-Person,34,Standard
+305,Liberty Personal 305,personal_care,In-Store,Retail / In-Person,31,Standard
+306,Urban Personal 306,personal_care,In-Store,Retail / In-Person,5,Standard
+307,Pioneer Personal 307,personal_care,In-Store,Retail / In-Person,29,Standard
+308,Liberty Personal 308,personal_care,In-Store,Retail / In-Person,5,Standard
+309,Summit Personal 309,personal_care,In-Store,Retail / In-Person,26,Standard
+310,Metro Personal 310,personal_care,In-Store,Retail / In-Person,4,Standard
+311,Apex Personal 311,personal_care,In-Store,Retail / In-Person,18,Standard
+312,Apex Health 312,health_fitness,In-Store,Retail / In-Person,24,Standard
+313,Metro Health 313,health_fitness,In-Store,Retail / In-Person,27,Standard
+314,Pioneer Health 314,health_fitness,In-Store,Retail / In-Person,16,Standard
+315,Sunrise Health 315,health_fitness,In-Store,Retail / In-Person,34,Standard
+316,Apex Health 316,health_fitness,In-Store,Retail / In-Person,28,Standard
+317,Beacon Health 317,health_fitness,In-Store,Retail / In-Person,8,Standard
+318,Beacon Health 318,health_fitness,In-Store,Retail / In-Person,25,Standard
+319,Nova Health 319,health_fitness,In-Store,Retail / In-Person,27,Watchlist
+320,Willow Health 320,health_fitness,In-Store,Retail / In-Person,13,Standard
+321,Summit Health 321,health_fitness,In-Store,Retail / In-Person,27,Standard
+322,Metro Health 322,health_fitness,In-Store,Retail / In-Person,33,Standard
+323,Crown Health 323,health_fitness,In-Store,Retail / In-Person,30,Standard
+324,Orbit Health 324,health_fitness,In-Store,Retail / In-Person,28,Standard
+325,Nova Health 325,health_fitness,In-Store,Retail / In-Person,23,Standard
+326,Sunrise Health 326,health_fitness,In-Store,Retail / In-Person,10,Standard
+327,Sunrise Health 327,health_fitness,In-Store,Retail / In-Person,29,Standard
+328,Prime Health 328,health_fitness,In-Store,Retail / In-Person,14,Watchlist
+329,Urban Health 329,health_fitness,In-Store,Retail / In-Person,20,Standard
+330,Liberty Health 330,health_fitness,In-Store,Retail / In-Person,12,Standard
+331,Liberty Health 331,health_fitness,In-Store,Retail / In-Person,12,Standard
+332,Summit Health 332,health_fitness,In-Store,Retail / In-Person,6,Standard
+333,Pioneer Misc 333,misc_pos,In-Store,Retail / In-Person,35,Watchlist
+334,Cedar Misc 334,misc_pos,In-Store,Retail / In-Person,6,Standard
+335,Evergreen Misc 335,misc_pos,In-Store,Retail / In-Person,4,Watchlist
+336,Willow Misc 336,misc_pos,In-Store,Retail / In-Person,34,Standard
+337,Nova Misc 337,misc_pos,In-Store,Retail / In-Person,20,Standard
+338,Summit Misc 338,misc_pos,In-Store,Retail / In-Person,16,Standard
+339,Sunrise Misc 339,misc_pos,In-Store,Retail / In-Person,27,Standard
+340,Nova Misc 340,misc_pos,In-Store,Retail / In-Person,14,Standard
+341,Apex Misc 341,misc_pos,In-Store,Retail / In-Person,5,Standard
+342,Pioneer Misc 342,misc_pos,In-Store,Retail / In-Person,27,Standard
+343,Crown Misc 343,misc_pos,In-Store,Retail / In-Person,7,Standard
+344,Liberty Misc 344,misc_pos,In-Store,Retail / In-Person,20,Standard
+345,Orbit Misc 345,misc_pos,In-Store,Retail / In-Person,35,Standard
+346,Pioneer Misc 346,misc_pos,In-Store,Retail / In-Person,34,Standard
+347,Nova Misc 347,misc_pos,In-Store,Retail / In-Person,13,Standard
+348,Orbit Misc 348,misc_pos,In-Store,Retail / In-Person,29,Standard
+349,Urban Misc 349,misc_pos,In-Store,Retail / In-Person,23,Standard
+350,Urban Misc 350,misc_pos,In-Store,Retail / In-Person,18,Standard
+351,Liberty Misc 351,misc_pos,In-Store,Retail / In-Person,6,Watchlist
+352,Prime Misc 352,misc_pos,In-Store,Retail / In-Person,14,Standard
+353,Pioneer Misc 353,misc_pos,In-Store,Retail / In-Person,24,Standard
+354,Harbor Shopping 354,shopping_net,Online,Online (Card-Not-Present),36,Standard
+355,Nova Shopping 355,shopping_net,Online,Online (Card-Not-Present),1,Standard
+356,Nova Shopping 356,shopping_net,Online,Online (Card-Not-Present),26,Standard
+357,Urban Shopping 357,shopping_net,Online,Online (Card-Not-Present),31,Standard
+358,Orbit Shopping 358,shopping_net,Online,Online (Card-Not-Present),35,Standard
+359,Metro Shopping 359,shopping_net,Online,Online (Card-Not-Present),16,Standard
+360,Beacon Shopping 360,shopping_net,Online,Online (Card-Not-Present),5,Standard
+361,Cedar Shopping 361,shopping_net,Online,Online (Card-Not-Present),10,Standard
+362,Orbit Shopping 362,shopping_net,Online,Online (Card-Not-Present),31,Watchlist
+363,Sunrise Shopping 363,shopping_net,Online,Online (Card-Not-Present),32,Standard
+364,Orbit Shopping 364,shopping_net,Online,Online (Card-Not-Present),23,Watchlist
+365,Metro Shopping 365,shopping_net,Online,Online (Card-Not-Present),5,Standard
+366,Liberty Shopping 366,shopping_net,Online,Online (Card-Not-Present),5,Standard
+367,Evergreen Shopping 367,shopping_net,Online,Online (Card-Not-Present),18,Standard
+368,Summit Shopping 368,shopping_net,Online,Online (Card-Not-Present),22,Standard
+369,Prime Shopping 369,shopping_net,Online,Online (Card-Not-Present),2,Standard
+370,Willow Shopping 370,shopping_net,Online,Online (Card-Not-Present),25,Standard
+371,Summit Shopping 371,shopping_net,Online,Online (Card-Not-Present),20,Standard
+372,Apex Shopping 372,shopping_net,Online,Online (Card-Not-Present),1,Standard
+373,Harbor Shopping 373,shopping_net,Online,Online (Card-Not-Present),4,Standard
+374,Summit Shopping 374,shopping_net,Online,Online (Card-Not-Present),17,Standard
+375,Orbit Shopping 375,shopping_net,Online,Online (Card-Not-Present),27,Standard
+376,Metro Shopping 376,shopping_net,Online,Online (Card-Not-Present),30,Standard
+377,Beacon Shopping 377,shopping_net,Online,Online (Card-Not-Present),16,Standard
+378,Beacon Shopping 378,shopping_net,Online,Online (Card-Not-Present),11,Standard
+379,Harbor Shopping 379,shopping_net,Online,Online (Card-Not-Present),35,Standard
+380,Pioneer Shopping 380,shopping_net,Online,Online (Card-Not-Present),17,Standard
+381,Prime Shopping 381,shopping_net,Online,Online (Card-Not-Present),12,Standard
+382,Orbit Shopping 382,shopping_net,Online,Online (Card-Not-Present),16,Standard
+383,Nova Misc 383,misc_net,Online,Online (Card-Not-Present),1,Standard
+384,Sunrise Misc 384,misc_net,Online,Online (Card-Not-Present),11,Standard
+385,Prime Misc 385,misc_net,Online,Online (Card-Not-Present),19,Standard
+386,Metro Misc 386,misc_net,Online,Online (Card-Not-Present),34,Standard
+387,Metro Misc 387,misc_net,Online,Online (Card-Not-Present),27,Standard
+388,Cedar Misc 388,misc_net,Online,Online (Card-Not-Present),29,Standard
+389,Orbit Misc 389,misc_net,Online,Online (Card-Not-Present),20,Standard
+390,Urban Misc 390,misc_net,Online,Online (Card-Not-Present),4,Standard
+391,Beacon Misc 391,misc_net,Online,Online (Card-Not-Present),15,Standard
+392,Urban Misc 392,misc_net,Online,Online (Card-Not-Present),36,Standard
+393,Summit Misc 393,misc_net,Online,Online (Card-Not-Present),2,Standard
+394,Crown Misc 394,misc_net,Online,Online (Card-Not-Present),32,Standard
+395,Beacon Grocery 395,grocery_net,Online,Online (Card-Not-Present),25,Watchlist
+396,Cedar Grocery 396,grocery_net,Online,Online (Card-Not-Present),11,Standard
+397,Prime Grocery 397,grocery_net,Online,Online (Card-Not-Present),29,Standard
+398,Sunrise Grocery 398,grocery_net,Online,Online (Card-Not-Present),31,Standard
+399,Pioneer Grocery 399,grocery_net,Online,Online (Card-Not-Present),2,Standard
+400,Pioneer Grocery 400,grocery_net,Online,Online (Card-Not-Present),4,Watchlist
+401,Nova Grocery 401,grocery_net,Online,Online (Card-Not-Present),24,Standard
+402,Willow Grocery 402,grocery_net,Online,Online (Card-Not-Present),36,Standard
+403,Summit Grocery 403,grocery_net,Online,Online (Card-Not-Present),1,Watchlist
+404,Nova Grocery 404,grocery_net,Online,Online (Card-Not-Present),24,Standard
+405,Evergreen Grocery 405,grocery_net,Online,Online (Card-Not-Present),5,Watchlist
+406,Liberty Grocery 406,grocery_net,Online,Online (Card-Not-Present),24,Standard
+407,Harbor Travel 407,travel,In-Store,Travel,23,Standard
+408,Urban Travel 408,travel,In-Store,Travel,4,Standard
+409,Orbit Travel 409,travel,In-Store,Travel,25,Standard
+410,Prime Travel 410,travel,In-Store,Travel,33,Standard
+411,Urban Travel 411,travel,In-Store,Travel,32,Standard
+412,Sunrise Travel 412,travel,In-Store,Travel,2,Standard
+413,Pioneer Travel 413,travel,In-Store,Travel,9,Standard
+414,Urban Travel 414,travel,In-Store,Travel,9,Standard
+415,Prime Travel 415,travel,In-Store,Travel,17,Standard
+416,Apex Travel 416,travel,In-Store,Travel,6,Standard
+417,Nova Travel 417,travel,In-Store,Travel,31,Standard
+418,Metro Travel 418,travel,In-Store,Travel,28,Standard

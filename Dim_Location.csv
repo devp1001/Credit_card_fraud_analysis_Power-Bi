@@ -1,0 +1,37 @@
+Location_Key,City,State,City_Population,Region,Population_Band
+1,Chicago,IL,2700000,Midwest,Metro
+2,Aurora,IL,180000,Midwest,Small
+3,Naperville,IL,150000,Midwest,Small
+4,Springfield,IL,114000,Midwest,Small
+5,Houston,TX,2300000,South,Metro
+6,Dallas,TX,1300000,South,Large
+7,Austin,TX,960000,South,Large
+8,San Antonio,TX,1400000,South,Large
+9,Los Angeles,CA,3900000,West,Metro
+10,San Diego,CA,1400000,West,Large
+11,San Jose,CA,1000000,West,Large
+12,Sacramento,CA,525000,West,Mid
+13,New York,NY,8400000,Northeast,Metro
+14,Buffalo,NY,278000,Northeast,Mid
+15,Albany,NY,99000,Northeast,Small
+16,Miami,FL,450000,South,Mid
+17,Orlando,FL,310000,South,Mid
+18,Tampa,FL,385000,South,Mid
+19,Atlanta,GA,498000,South,Mid
+20,Savannah,GA,147000,South,Small
+21,Philadelphia,PA,1600000,Northeast,Metro
+22,Pittsburgh,PA,300000,Northeast,Mid
+23,Columbus,OH,905000,Midwest,Large
+24,Cleveland,OH,372000,Midwest,Mid
+25,Detroit,MI,639000,Midwest,Mid
+26,Grand Rapids,MI,198000,Midwest,Small
+27,Seattle,WA,737000,West,Large
+28,Spokane,WA,229000,West,Mid
+29,Denver,CO,715000,West,Large
+30,Phoenix,AZ,1600000,West,Metro
+31,Boston,MA,675000,Northeast,Mid
+32,Charlotte,NC,874000,South,Large
+33,Minneapolis,MN,429000,Midwest,Mid
+34,Nashville,TN,689000,South,Mid
+35,Las Vegas,NV,641000,West,Mid
+36,Newark,NJ,311000,Northeast,Mid
